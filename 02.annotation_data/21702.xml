@@ -1,0 +1,26 @@
+<annotation>
+	<folder>XML</folder>
+	<filename>21702.jpg</filename>
+	<path>F:\2_MyWork\1-Data-Vehicle\data_vehicle_21_01_2022\data_vehicle_2701\images\train\21702.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>372</width>
+		<height>333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vehicle plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>217</ymin>
+			<xmax>242</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>
